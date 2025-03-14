@@ -1,8 +1,7 @@
-let dever = true
+let dever = false
 
 if (! dever ){
     console.log("Sem dever, bora jogar!")
-}
-else {
+} else {
     console.log("Tenho dever, não posso jogar")
 }

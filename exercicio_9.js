@@ -1,9 +1,8 @@
 let dinheiro = 10
 let amigo = false
 
-if ((dinheiro => 20 || amigo )) {
+if (dinheiro >= 20 || amigo ) {
     console.log("Vou para o rolê");
-}
-else {
+} else {
     console.log("Não vou para o rolê")
 }

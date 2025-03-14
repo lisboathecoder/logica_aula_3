@@ -5,3 +5,6 @@ if (dinheiro => 10){
 } else {
     console.log("Não posso comprar um lanche");
 }
+
+// Gustavo Teixeira Lisboa
+// 14/03/2025 18:50
