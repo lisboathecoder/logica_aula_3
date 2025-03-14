@@ -1,4 +1,4 @@
-    let taChovendo = true
+    let taChovendo = false;
 
     if (taChovendo = true) {
         console.log("Fico em casa");
