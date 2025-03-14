@@ -1,10 +1,10 @@
-    let taChovendo = false;
-
-    if (taChovendo = true) {
+    let taChovendo = true;
+    
+    if (taChovendo) {
         console.log("Fico em casa");
-    } else if (taChovendo = false) {
+    } else {
         console.log("Vou jogar bola");
     }
 
     // Gustavo Teixeira Lisboa
-// 14/03/2025 18:50
+    // 14/03/2025 18:50
